@@ -4,7 +4,7 @@ import './app.scss'
 function App() {
 
   return (
-    <div className="app_container">
+    <section className="app_container">
       <div className='left_box'>
         <div className='left_div'>
           <span> your result</span>
@@ -47,7 +47,7 @@ function App() {
           <button> continue</button>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 
